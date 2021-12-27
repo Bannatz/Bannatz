@@ -1,6 +1,6 @@
 ### Heya, Im Bannatz and currently 18 Years Old!
 
-## Im a Student for Electrical Engineering and i Programm as a Hobby
+## Im a Student for Electrical Engineering
 - Im currently learning Java, C++ and C#
 - I can programm in Python and Rust
 - Im looking forward to learn some more Programming Languages!
@@ -22,4 +22,6 @@
 - Rust Ohm's law
 - Java Radio
 
-
+## More Information about me:
+I like to programm as a Hobby :D
+im in Therapy and Code likes to help me calm down a bit
