@@ -1,4 +1,4 @@
-### Heya, Im Bannatz and currently 18 Years Old!
+### Heya, Im Bannatz and currently 19 Years Old!
 
 ## Im a Student for Electrical Engineering
 - Im currently learning Java, C++ and C#
