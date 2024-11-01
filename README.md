@@ -2,8 +2,8 @@
 <h3 align="center">A Dude from Germany with too much free time</h3>
 
 <h3 align="left">Current Projects: </h3>
-<p align="left"> BlendX - A Python Tool for Scraping </p>
-<p align="left"> Bisualizer - A C Background Cava-like Program since i love Visualizers</p>
+<p align="left"> Bofi - A Python Lofi Player for Cozy Time 🤗 </p>
+<p align="left"></p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
